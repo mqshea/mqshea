@@ -1,4 +1,4 @@
-## Hello and welcome to my GitHub. I'm Matt, a junior data analyst with a strong finance background
+## Hello and welcome to my GitHub. I'm Matt, an aspiring data analyst with a strong finance background
 - 🔭 I’m currently working on projects using Python, Excel, Jupyter Notebook, and SQL!
 - 🌱 I’m currently learning fundaments of Data Analysis at UNC Chapel Hill
 - 👯 I’m looking to collaborate on interesting financial projects regarding the Cost of Homes and Rent in the US
